@@ -9,7 +9,7 @@ function App() {
       <Header />
       <AppRouting />
 
-      <Footer />
+      {/* <Footer /> */}
     </>
   );
 }
